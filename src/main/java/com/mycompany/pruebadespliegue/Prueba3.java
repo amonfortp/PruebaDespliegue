@@ -10,5 +10,9 @@ package com.mycompany.pruebadespliegue;
  * @author Alejandro
  */
 public class Prueba3 {
-    int variable = 10;
+    public static void main(String[] args){
+        int variable = 10;
+        
+        System.out.println(variable);
+    }
 }
