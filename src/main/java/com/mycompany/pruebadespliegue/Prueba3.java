@@ -9,6 +9,6 @@ package com.mycompany.pruebadespliegue;
  *
  * @author Alejandro
  */
-public class Prueba {
-    String varaible = "";
+public class Prueba3 {
+    int variable = 10;
 }
