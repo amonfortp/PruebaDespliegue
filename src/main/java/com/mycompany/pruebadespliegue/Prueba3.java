@@ -11,7 +11,7 @@ package com.mycompany.pruebadespliegue;
  */
 public class Prueba3 {
     public static void main(String[] args){
-        int variable = 10;
+        int variable = 12;
         
         System.out.println(variable);
     }
