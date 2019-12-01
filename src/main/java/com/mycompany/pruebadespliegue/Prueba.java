@@ -10,5 +10,5 @@ package com.mycompany.pruebadespliegue;
  * @author Alejandro
  */
 public class Prueba {
-        
+        int variable = 1;
 }
